@@ -31,12 +31,6 @@ namespace GC_Lab2
 
                 Console.Write("Would you like to continue? (y/n): ");
                 continuePrompt = Console.ReadLine();
-
-                //while (continuePrompt != "y" && continuePrompt != "Y" && continuePrompt != "n" && continuePrompt != "N")
-                //{
-                //    Console.Write("Please enter a valid response. (y/n): ");
-                //    continuePrompt = Console.ReadLine();
-                //}
             }
 
         }
